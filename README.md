@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ruthmazango
-- 👀 I’m interested in Python, javascript, Machine Learning and MySQL
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on beginner python projects
+- 👀 I’m interested in Python, Java, javascript, Machine Learning and MySQL
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on beginner java projects
 - 📫 How to reach me ruthmazango@gmail.com
 
 <!---
