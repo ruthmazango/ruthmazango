@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ruthmazango
-- 👀 I’m interested in Python, Java, javascript, Machine Learning and MySQL
-- So far I know the following libraries: Django, Springboot and I am learning React, and Flutter
+- 👀 I’m interested in Java, Typescript, javascript, and MySQL
+- So far I know the following libraries: Springboot, ExpressTypescript, Angular and I am doing beginner projects using express, angular and workbench mysql
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on beginner java projects
+- 💞️ I’m looking to collaborate on intermediate angular, and express projects
 - 📫 How to reach me ruthmazango@gmail.com
 
 <!---
